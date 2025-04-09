@@ -1,0 +1,23 @@
+{
+    "name": "agencia5502",
+    "version": "1.0.0",
+    "description": "Sistema Web Para App de Agencia de Viajes con SQL Server",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "sql",
+        "server",
+        "banco",
+        "web"
+    ],
+    "author": "sevaldov",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.19.2",
+        "moment": "^2.30.1",
+        "mssql": "^10.0.4",
+        "validator": "^13.12.0"
+    }
+}
